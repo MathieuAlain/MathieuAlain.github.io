@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematical Morphology on Mathieu @ ULaval</title>
+    <link>https://MathieuAlain.github.io/tags/mathematical-morphology/</link>
+    <description>Recent content in Mathematical Morphology on Mathieu @ ULaval</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 10 Feb 2017 13:23:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://MathieuAlain.github.io/tags/mathematical-morphology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RAMiCS 2017</title>
+      <link>https://MathieuAlain.github.io/post/ramics2017/</link>
+      <pubDate>Fri, 10 Feb 2017 13:23:10 +0100</pubDate>
+      
+      <guid>https://MathieuAlain.github.io/post/ramics2017/</guid>
+      <description>I’m happy to announce that my submitted paper with Jules Desharnais titled &amp;ldquo;Relation as Images&amp;rdquo; has been accepted at RAMiCS 2017. So I’ll be in Lyon in early May to present our recent work.</description>
+    </item>
+    
+  </channel>
+</rss>

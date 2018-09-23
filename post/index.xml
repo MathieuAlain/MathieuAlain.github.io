@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mathieu @ ULaval</title>
+    <link>https://MathieuAlain.github.io/post/</link>
+    <description>Recent content in Posts on Mathieu @ ULaval</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://MathieuAlain.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GRAAL</title>
+      <link>https://MathieuAlain.github.io/post/graal/</link>
+      <pubDate>Mon, 07 May 2018 13:23:10 +0100</pubDate>
+      
+      <guid>https://MathieuAlain.github.io/post/graal/</guid>
+      <description>I’m glad to be a part of the GRAAL research group for this summer. The group is led by François Laviolette and Mario Marchand and their interests are mainly machine learning theory and its applications. This will be my first experience in machine learning, but it should be fun!</description>
+    </item>
+    
+    <item>
+      <title>GIREF</title>
+      <link>https://MathieuAlain.github.io/post/giref/</link>
+      <pubDate>Tue, 02 May 2017 13:23:10 +0100</pubDate>
+      
+      <guid>https://MathieuAlain.github.io/post/giref/</guid>
+      <description>This summer I will join the GIREF research group under the supervision of José Urquiza. Their main focus are numerical methods such as the widely used finite element method.</description>
+    </item>
+    
+    <item>
+      <title>RAMiCS 2017</title>
+      <link>https://MathieuAlain.github.io/post/ramics2017/</link>
+      <pubDate>Fri, 10 Feb 2017 13:23:10 +0100</pubDate>
+      
+      <guid>https://MathieuAlain.github.io/post/ramics2017/</guid>
+      <description>I’m happy to announce that my submitted paper with Jules Desharnais titled &amp;ldquo;Relation as Images&amp;rdquo; has been accepted at RAMiCS 2017. So I’ll be in Lyon in early May to present our recent work.</description>
+    </item>
+    
+    <item>
+      <title>LSFM</title>
+      <link>https://MathieuAlain.github.io/post/lfsm/</link>
+      <pubDate>Wed, 04 May 2016 13:23:10 +0100</pubDate>
+      
+      <guid>https://MathieuAlain.github.io/post/lfsm/</guid>
+      <description>I’m thrilled to join the LSFM research group for this summer under the supervision of Jules Desharnais. Their interests lies in languages, semantics, formal and algebraic methods. I couldn’t ask for a better first research experience!</description>
+    </item>
+    
+  </channel>
+</rss>
