@@ -53,7 +53,7 @@ body {
 }
 
 .max-width-640 {
-  max-width: 640px;
+  max-width: 740px;
 }
 
 .margin-auto {
@@ -583,7 +583,7 @@ ul.ul-edu li .description p {
 }
 
 ul.ul-edu li .description p.course {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
 }
 
 ul.ul-edu li .description p.institution {
