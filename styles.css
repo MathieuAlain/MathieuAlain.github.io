@@ -53,7 +53,7 @@ body {
 }
 
 .max-width-640 {
-  max-width: 940px;
+  max-width: 640px;
 }
 
 .margin-auto {
@@ -399,7 +399,6 @@ a[data-fancybox] img {
   padding: 110px 0 110px 0;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
-  width: 80% !important;
 }
 
 .home-section:first-of-type {
@@ -574,6 +573,10 @@ ul.ul-edu {
   list-style: none;
 }
 
+/*************************************************
+ *  Default 0 15 4 3
+ **************************************************/
+
 ul.ul-edu li {
   position: relative;
   padding: 0px 15px 4px 3px;
@@ -583,8 +586,12 @@ ul.ul-edu li .description p {
   margin: 0;
 }
 
+/*************************************************
+ *  Default 0.9rem
+ **************************************************/
+
 ul.ul-edu li .description p.course {
-  font-size: 0.9rem;
+  font-size: 0.87rem;
 }
 
 ul.ul-edu li .description p.institution {
