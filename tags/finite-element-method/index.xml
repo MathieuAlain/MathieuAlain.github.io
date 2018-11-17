@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finite element method on Mathieu @ ULaval</title>
-    <link>https://MathieuAlain.github.io/tags/finite-element-method/</link>
+    <link>https://mathieualain.github.io/tags/finite-element-method/</link>
     <description>Recent content in Finite element method on Mathieu @ ULaval</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 02 May 2017 13:23:10 +0100</lastBuildDate>
     
-	<atom:link href="https://MathieuAlain.github.io/tags/finite-element-method/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mathieualain.github.io/tags/finite-element-method/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GIREF</title>
-      <link>https://MathieuAlain.github.io/post/giref/</link>
+      <link>https://mathieualain.github.io/post/giref/</link>
       <pubDate>Tue, 02 May 2017 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/post/giref/</guid>
+      <guid>https://mathieualain.github.io/post/giref/</guid>
       <description>This summer I will join the GIREF research group under the supervision of José Urquiza. Their main focus are numerical methods commonly used in engineering such as the finite element method.</description>
     </item>
     

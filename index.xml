@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathieu @ ULaval on Mathieu @ ULaval</title>
-    <link>https://MathieuAlain.github.io/</link>
+    <link>https://mathieualain.github.io/</link>
     <description>Recent content in Mathieu @ ULaval on Mathieu @ ULaval</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,49 +12,51 @@
     
     <item>
       <title>GRAAL</title>
-      <link>https://MathieuAlain.github.io/post/graal/</link>
+      <link>https://mathieualain.github.io/post/graal/</link>
       <pubDate>Mon, 07 May 2018 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/post/graal/</guid>
-      <description>&lt;p&gt;I’m glad to be part of the &lt;a href=&#34;https://graal.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;GRAAL&lt;/a&gt; research group for this summer. The group is led by &lt;a href=&#34;http://www2.ift.ulaval.ca/~laviolette/&#34; target=&#34;_blank&#34;&gt;François Laviolette&lt;/a&gt; and &lt;a href=&#34;https://www2.ift.ulaval.ca/~mmarchand/&#34; target=&#34;_blank&#34;&gt;Mario Marchand&lt;/a&gt; and their interests are mainly machine learning and its applications. This is my first experience with machine learning and it should be fun!&lt;/p&gt;
+      <guid>https://mathieualain.github.io/post/graal/</guid>
+      <description>&lt;p&gt;I’m glad to be part of the &lt;a href=&#34;https://graal.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;GRAAL&lt;/a&gt; research group for this summer. The group is led by &lt;a href=&#34;https://scholar.google.com/citations?user=uwwWC3cAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;François Laviolette&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?user=M792u2sAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Mario Marchand&lt;/a&gt; and their interests are mainly &lt;a href=&#34;https://en.wikipedia.org/wiki/Machine_learning&#34; target=&#34;_blank&#34;&gt;machine learning&lt;/a&gt; and its applications. This is my first experience with machine learning and it should be fun!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GIREF</title>
-      <link>https://MathieuAlain.github.io/post/giref/</link>
+      <link>https://mathieualain.github.io/post/giref/</link>
       <pubDate>Tue, 02 May 2017 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/post/giref/</guid>
-      <description>&lt;p&gt;This summer I will join the &lt;a href=&#34;http://giref.ulaval.ca/accueil.html&#34; target=&#34;_blank&#34;&gt;GIREF&lt;/a&gt; research group under the supervision of José Urquiza. Their main focus are numerical methods commonly used in engineering such as the finite element method.&lt;/p&gt;
+      <guid>https://mathieualain.github.io/post/giref/</guid>
+      <description>&lt;p&gt;This summer I will join the &lt;a href=&#34;http://giref.ulaval.ca/accueil.html&#34; target=&#34;_blank&#34;&gt;GIREF&lt;/a&gt; research group under the supervision of José Urquiza. Their main focus are numerical methods commonly used in engineering such as the &lt;a href=&#34;https://en.wikipedia.org/wiki/Finite_element_method&#34; target=&#34;_blank&#34;&gt;finite element method&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Relations as Images</title>
-      <link>https://MathieuAlain.github.io/publication/paper/</link>
+      <link>https://mathieualain.github.io/publication/paper/</link>
       <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://MathieuAlain.github.io/publication/paper/</guid>
+      <guid>https://mathieualain.github.io/publication/paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RAMiCS 2017</title>
-      <link>https://MathieuAlain.github.io/post/ramics2017/</link>
+      <link>https://mathieualain.github.io/post/ramics2017/</link>
       <pubDate>Fri, 10 Feb 2017 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/post/ramics2017/</guid>
-      <description>&lt;p&gt;I’m happy to announce that my submitted paper with &lt;a href=&#34;http://www2.ift.ulaval.ca/~desharnais/&#34; target=&#34;_blank&#34;&gt;Jules Desharnais&lt;/a&gt; titled &amp;ldquo;Relation as Images&amp;rdquo; has been accepted at &lt;a href=&#34;http://www.ens-lyon.fr/LIP/PLUME/RAMiCS17/&#34; target=&#34;_blank&#34;&gt;RAMiCS 2017&lt;/a&gt;. So I’ll be in Lyon in early May to present our recent work.&lt;/p&gt;
+      <guid>https://mathieualain.github.io/post/ramics2017/</guid>
+      <description>&lt;p&gt;I’m happy to announce that the submitted paper with &lt;a href=&#34;http://www2.ift.ulaval.ca/~desharnais/&#34; target=&#34;_blank&#34;&gt;Jules Desharnais&lt;/a&gt; titled &amp;ldquo;Relation as Images&amp;rdquo; has been accepted at &lt;a href=&#34;http://www.ens-lyon.fr/LIP/PLUME/RAMiCS17/&#34; target=&#34;_blank&#34;&gt;RAMiCS 2017&lt;/a&gt;. Therefore, I’ll be in Lyon (France) in early May to present our recent work.&lt;/p&gt;
+
+&lt;p&gt;This paper primarily defines two basic morphological operations (dilation and erosion) on binary images using a formalism from &lt;a href=&#34;https://en.wikipedia.org/wiki/Relation_algebra&#34; target=&#34;_blank&#34;&gt;relation algebra&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LSFM</title>
-      <link>https://MathieuAlain.github.io/post/lfsm/</link>
+      <link>https://mathieualain.github.io/post/lfsm/</link>
       <pubDate>Wed, 04 May 2016 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/post/lfsm/</guid>
+      <guid>https://mathieualain.github.io/post/lfsm/</guid>
       <description>&lt;p&gt;I’m thrilled to join the &lt;a href=&#34;https://lsfm.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;LSFM&lt;/a&gt; research group for this summer under the supervision of &lt;a href=&#34;http://www2.ift.ulaval.ca/~desharnais/&#34; target=&#34;_blank&#34;&gt;Jules Desharnais&lt;/a&gt;. Their interests lies in languages, semantics, formal and algebraic methods. I couldn’t ask for a better first research experience!&lt;/p&gt;
 </description>
     </item>

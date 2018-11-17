@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Mathieu @ ULaval</title>
-    <link>https://MathieuAlain.github.io/tags/machine-learning/</link>
+    <link>https://mathieualain.github.io/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Mathieu @ ULaval</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 07 May 2018 13:23:10 +0100</lastBuildDate>
     
-	<atom:link href="https://MathieuAlain.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mathieualain.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GRAAL</title>
-      <link>https://MathieuAlain.github.io/post/graal/</link>
+      <link>https://mathieualain.github.io/post/graal/</link>
       <pubDate>Mon, 07 May 2018 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/post/graal/</guid>
+      <guid>https://mathieualain.github.io/post/graal/</guid>
       <description>I’m glad to be part of the GRAAL research group for this summer. The group is led by François Laviolette and Mario Marchand and their interests are mainly machine learning and its applications. This is my first experience with machine learning and it should be fun!</description>
     </item>
     

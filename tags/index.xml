@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mathieu @ ULaval</title>
-    <link>https://MathieuAlain.github.io/tags/</link>
+    <link>https://mathieualain.github.io/tags/</link>
     <description>Recent content in Tags on Mathieu @ ULaval</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 02 May 2017 13:23:10 +0100</lastBuildDate>
     
-	<atom:link href="https://MathieuAlain.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mathieualain.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Applied Mathematics</title>
-      <link>https://MathieuAlain.github.io/tags/applied-mathematics/</link>
+      <link>https://mathieualain.github.io/tags/applied-mathematics/</link>
       <pubDate>Tue, 02 May 2017 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/tags/applied-mathematics/</guid>
+      <guid>https://mathieualain.github.io/tags/applied-mathematics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Mining</title>
-      <link>https://MathieuAlain.github.io/tags/data-mining/</link>
+      <link>https://mathieualain.github.io/tags/data-mining/</link>
       <pubDate>Mon, 07 May 2018 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/tags/data-mining/</guid>
+      <guid>https://mathieualain.github.io/tags/data-mining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finite element method</title>
-      <link>https://MathieuAlain.github.io/tags/finite-element-method/</link>
+      <link>https://mathieualain.github.io/tags/finite-element-method/</link>
       <pubDate>Tue, 02 May 2017 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/tags/finite-element-method/</guid>
+      <guid>https://mathieualain.github.io/tags/finite-element-method/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>https://MathieuAlain.github.io/tags/machine-learning/</link>
+      <link>https://mathieualain.github.io/tags/machine-learning/</link>
       <pubDate>Mon, 07 May 2018 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/tags/machine-learning/</guid>
+      <guid>https://mathieualain.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathematical Morphology</title>
-      <link>https://MathieuAlain.github.io/tags/mathematical-morphology/</link>
+      <link>https://mathieualain.github.io/tags/mathematical-morphology/</link>
       <pubDate>Fri, 10 Feb 2017 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/tags/mathematical-morphology/</guid>
+      <guid>https://mathieualain.github.io/tags/mathematical-morphology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RAMiCS</title>
-      <link>https://MathieuAlain.github.io/tags/ramics/</link>
+      <link>https://mathieualain.github.io/tags/ramics/</link>
       <pubDate>Fri, 10 Feb 2017 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/tags/ramics/</guid>
+      <guid>https://mathieualain.github.io/tags/ramics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relation Algebra</title>
-      <link>https://MathieuAlain.github.io/tags/relation-algebra/</link>
+      <link>https://mathieualain.github.io/tags/relation-algebra/</link>
       <pubDate>Fri, 10 Feb 2017 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/tags/relation-algebra/</guid>
+      <guid>https://mathieualain.github.io/tags/relation-algebra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theoretical Computer Science</title>
-      <link>https://MathieuAlain.github.io/tags/theoretical-computer-science/</link>
+      <link>https://mathieualain.github.io/tags/theoretical-computer-science/</link>
       <pubDate>Wed, 04 May 2016 13:23:10 +0100</pubDate>
       
-      <guid>https://MathieuAlain.github.io/tags/theoretical-computer-science/</guid>
+      <guid>https://mathieualain.github.io/tags/theoretical-computer-science/</guid>
       <description></description>
     </item>
     

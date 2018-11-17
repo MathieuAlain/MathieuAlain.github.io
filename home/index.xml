@@ -2,132 +2,132 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Mathieu @ ULaval</title>
-    <link>https://MathieuAlain.github.io/home/</link>
+    <link>https://mathieualain.github.io/home/</link>
     <description>Recent content in Homes on Mathieu @ ULaval</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://MathieuAlain.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mathieualain.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://MathieuAlain.github.io/home/hero_carousel/</link>
+      <link>https://mathieualain.github.io/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://MathieuAlain.github.io/home/hero_carousel/</guid>
+      <guid>https://mathieualain.github.io/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://MathieuAlain.github.io/home/about/</link>
+      <link>https://mathieualain.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://MathieuAlain.github.io/home/about/</guid>
+      <guid>https://mathieualain.github.io/home/about/</guid>
       <description>Biography Hello. My name is Mathieu Alain and I am currently a BSc student in Mathematics and Computer Science at Université Laval in Canada. My main interests lies in Machine Learning, Theoretical Computer Science and Applied Mathematics.
 I am part of the GRAAL research group led by François Laviolette and Mario Marchand.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://MathieuAlain.github.io/home/publications_selected/</link>
+      <link>https://mathieualain.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://MathieuAlain.github.io/home/publications_selected/</guid>
+      <guid>https://mathieualain.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://MathieuAlain.github.io/home/skills/</link>
+      <link>https://mathieualain.github.io/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://MathieuAlain.github.io/home/skills/</guid>
+      <guid>https://mathieualain.github.io/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://MathieuAlain.github.io/home/publications/</link>
+      <link>https://mathieualain.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://MathieuAlain.github.io/home/publications/</guid>
+      <guid>https://mathieualain.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>https://MathieuAlain.github.io/home/talks_selected/</link>
+      <link>https://mathieualain.github.io/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://MathieuAlain.github.io/home/talks_selected/</guid>
+      <guid>https://mathieualain.github.io/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://MathieuAlain.github.io/home/talks/</link>
+      <link>https://mathieualain.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://MathieuAlain.github.io/home/talks/</guid>
+      <guid>https://mathieualain.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://MathieuAlain.github.io/home/posts/</link>
+      <link>https://mathieualain.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://MathieuAlain.github.io/home/posts/</guid>
+      <guid>https://mathieualain.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Documents</title>
-      <link>https://MathieuAlain.github.io/home/projects/</link>
+      <link>https://mathieualain.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://MathieuAlain.github.io/home/projects/</guid>
+      <guid>https://mathieualain.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Others</title>
-      <link>https://MathieuAlain.github.io/home/teaching/</link>
+      <link>https://mathieualain.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://MathieuAlain.github.io/home/teaching/</guid>
+      <guid>https://mathieualain.github.io/home/teaching/</guid>
       <description>Here you will find some of my writings on various topics that interest me.
 (Coming soon!)</description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://MathieuAlain.github.io/home/tags/</link>
+      <link>https://mathieualain.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://MathieuAlain.github.io/home/tags/</guid>
+      <guid>https://mathieualain.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://MathieuAlain.github.io/home/search/</link>
+      <link>https://mathieualain.github.io/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://MathieuAlain.github.io/home/search/</guid>
+      <guid>https://mathieualain.github.io/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://MathieuAlain.github.io/home/contact/</link>
+      <link>https://mathieualain.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://MathieuAlain.github.io/home/contact/</guid>
+      <guid>https://mathieualain.github.io/home/contact/</guid>
       <description></description>
     </item>
     
