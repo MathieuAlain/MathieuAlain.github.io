@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GRAAL on Mathieu @ ULaval</title>
+    <link>https://mathieualain.github.io/tags/graal/</link>
+    <description>Recent content in GRAAL on Mathieu @ ULaval</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 13 Nov 2018 13:23:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://mathieualain.github.io/tags/graal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Master</title>
+      <link>https://mathieualain.github.io/post/msc/</link>
+      <pubDate>Tue, 13 Nov 2018 13:23:10 +0100</pubDate>
+      
+      <guid>https://mathieualain.github.io/post/msc/</guid>
+      <description>I&amp;rsquo;m delighted to stay in the realm of the GRAAL research group under the guidance of François Laviolette for my MSc in Computer Science. A new set of challenges and opportunities is forthcoming!</description>
+    </item>
+    
+  </channel>
+</rss>
