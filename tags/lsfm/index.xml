@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LSFM on Mathieu @ ULaval</title>
+    <link>https://mathieualain.github.io/tags/lsfm/</link>
+    <description>Recent content in LSFM on Mathieu @ ULaval</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 04 May 2016 13:23:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://mathieualain.github.io/tags/lsfm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LSFM</title>
+      <link>https://mathieualain.github.io/post/lfsm/</link>
+      <pubDate>Wed, 04 May 2016 13:23:10 +0100</pubDate>
+      
+      <guid>https://mathieualain.github.io/post/lfsm/</guid>
+      <description>I’m thrilled to join the LSFM research group for this summer under the supervision of Jules Desharnais. Their interests lies in languages, semantics, formal and algebraic methods. I couldn’t ask for a better first research experience!</description>
+    </item>
+    
+  </channel>
+</rss>
