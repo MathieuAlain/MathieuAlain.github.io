@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Applied Mathematics on Mathieu @ ULaval</title>
+    <title>Applied Mathematics on Mathieu @ GRAAL</title>
     <link>https://mathieualain.github.io/tags/applied-mathematics/</link>
-    <description>Recent content in Applied Mathematics on Mathieu @ ULaval</description>
+    <description>Recent content in Applied Mathematics on Mathieu @ GRAAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Tue, 02 May 2017 13:23:10 +0100</pubDate>
       
       <guid>https://mathieualain.github.io/post/giref/</guid>
-      <description>This summer I will join the GIREF research group under the supervision of José Urquiza. Their main focus are numerical methods commonly used in engineering such as the finite element method.</description>
+      <description>This summer I will join the GIREF research group under the supervision of José Urquiza. Their main focus is numerical methods commonly used in engineering such as the finite element method.</description>
     </item>
     
   </channel>

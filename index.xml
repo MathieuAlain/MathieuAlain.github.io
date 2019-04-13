@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mathieu @ ULaval on Mathieu @ ULaval</title>
+    <title>Mathieu @ GRAAL on Mathieu @ GRAAL</title>
     <link>https://mathieualain.github.io/</link>
-    <description>Recent content in Mathieu @ ULaval on Mathieu @ ULaval</description>
+    <description>Recent content in Mathieu @ GRAAL on Mathieu @ GRAAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 07 May 2018 13:23:10 +0100</pubDate>
       
       <guid>https://mathieualain.github.io/post/graal/</guid>
-      <description>&lt;p&gt;I’m glad to be part of the &lt;a href=&#34;https://graal.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;GRAAL&lt;/a&gt; research group for this summer. The group is led by &lt;a href=&#34;https://scholar.google.com/citations?user=uwwWC3cAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;François Laviolette&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?user=M792u2sAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Mario Marchand&lt;/a&gt; and their interests are &lt;a href=&#34;https://en.wikipedia.org/wiki/Machine_learning&#34; target=&#34;_blank&#34;&gt;machine learning&lt;/a&gt; and its practical applications. This is my first experience with machine learning and it should be fun!&lt;/p&gt;
+      <description>&lt;p&gt;I’m glad to be part of the &lt;a href=&#34;https://graal.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;GRAAL&lt;/a&gt; research group for the summer. The group is led by &lt;a href=&#34;https://scholar.google.com/citations?user=uwwWC3cAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;François Laviolette&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?user=M792u2sAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Mario Marchand&lt;/a&gt; and their interests cover &lt;a href=&#34;https://en.wikipedia.org/wiki/Machine_learning&#34; target=&#34;_blank&#34;&gt;machine learning&lt;/a&gt; and its practical applications. I&amp;rsquo;m new to machine learning, but it should be fun!&lt;/p&gt;
 </description>
     </item>
     
@@ -36,7 +36,7 @@
       <pubDate>Tue, 02 May 2017 13:23:10 +0100</pubDate>
       
       <guid>https://mathieualain.github.io/post/giref/</guid>
-      <description>&lt;p&gt;This summer I will join the &lt;a href=&#34;http://giref.ulaval.ca/accueil.html&#34; target=&#34;_blank&#34;&gt;GIREF&lt;/a&gt; research group under the supervision of José Urquiza. Their main focus are numerical methods commonly used in engineering such as the &lt;a href=&#34;https://en.wikipedia.org/wiki/Finite_element_method&#34; target=&#34;_blank&#34;&gt;finite element method&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This summer I will join the &lt;a href=&#34;http://giref.ulaval.ca/accueil.html&#34; target=&#34;_blank&#34;&gt;GIREF&lt;/a&gt; research group under the supervision of José Urquiza. Their main focus is numerical methods commonly used in engineering such as the &lt;a href=&#34;https://en.wikipedia.org/wiki/Finite_element_method&#34; target=&#34;_blank&#34;&gt;finite element method&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -55,7 +55,7 @@
       <pubDate>Fri, 10 Feb 2017 13:23:10 +0100</pubDate>
       
       <guid>https://mathieualain.github.io/post/ramics2017/</guid>
-      <description>&lt;p&gt;I’m happy to announce that the submitted paper with &lt;a href=&#34;http://www2.ift.ulaval.ca/~desharnais/&#34; target=&#34;_blank&#34;&gt;Jules Desharnais&lt;/a&gt; titled &amp;ldquo;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-57418-9_3&#34; target=&#34;_blank&#34;&gt;Relation as Images&lt;/a&gt;&amp;rdquo; has been accepted at &lt;a href=&#34;http://www.ens-lyon.fr/LIP/PLUME/RAMiCS17/&#34; target=&#34;_blank&#34;&gt;RAMiCS 2017&lt;/a&gt;. Therefore, I’ll be in Lyon (France) in early May to present our recent work. This paper primarily defines two basic &lt;a href=&#34;https://en.wikipedia.org/wiki/Mathematical_morphology&#34; target=&#34;_blank&#34;&gt;morphological&lt;/a&gt; operations (dilation and erosion) on binary images using a formalism from &lt;a href=&#34;https://en.wikipedia.org/wiki/Relation_algebra&#34; target=&#34;_blank&#34;&gt;relation algebra&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I’m happy to announce that the paper with &lt;a href=&#34;http://www2.ift.ulaval.ca/~desharnais/&#34; target=&#34;_blank&#34;&gt;Jules Desharnais&lt;/a&gt; titled &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-57418-9_3&#34; target=&#34;_blank&#34;&gt;Relation as Images&lt;/a&gt; has been accepted at &lt;a href=&#34;http://www.ens-lyon.fr/LIP/PLUME/RAMiCS17/&#34; target=&#34;_blank&#34;&gt;RAMiCS 2017&lt;/a&gt;. Therefore, I’ll be in Lyon (France) in early May to present our recent work. This paper primarily defines two basic &lt;a href=&#34;https://en.wikipedia.org/wiki/Mathematical_morphology&#34; target=&#34;_blank&#34;&gt;morphological&lt;/a&gt; operations (dilation and erosion) on binary images using a formalism from &lt;a href=&#34;https://en.wikipedia.org/wiki/Relation_algebra&#34; target=&#34;_blank&#34;&gt;relation algebra&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -65,7 +65,7 @@
       <pubDate>Wed, 04 May 2016 13:23:10 +0100</pubDate>
       
       <guid>https://mathieualain.github.io/post/lfsm/</guid>
-      <description>&lt;p&gt;I’m thrilled to join the &lt;a href=&#34;https://lsfm.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;LSFM&lt;/a&gt; research group for this summer under the supervision of &lt;a href=&#34;http://www2.ift.ulaval.ca/~desharnais/&#34; target=&#34;_blank&#34;&gt;Jules Desharnais&lt;/a&gt;. Their interests lies in languages, semantics, formal and algebraic methods. I couldn’t ask for a better first research experience!&lt;/p&gt;
+      <description>&lt;p&gt;I’m thrilled to join the &lt;a href=&#34;https://lsfm.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;LSFM&lt;/a&gt; research group for the summer under the supervision of &lt;a href=&#34;http://www2.ift.ulaval.ca/~desharnais/&#34; target=&#34;_blank&#34;&gt;Jules Desharnais&lt;/a&gt;. Their interests lie in languages, semantics, formal and algebraic methods. I couldn’t ask for a better first research experience!&lt;/p&gt;
 </description>
     </item>
     

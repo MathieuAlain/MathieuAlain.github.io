@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning on Mathieu @ ULaval</title>
+    <title>Machine Learning on Mathieu @ GRAAL</title>
     <link>https://mathieualain.github.io/tags/machine-learning/</link>
-    <description>Recent content in Machine Learning on Mathieu @ ULaval</description>
+    <description>Recent content in Machine Learning on Mathieu @ GRAAL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -27,7 +27,7 @@
       <pubDate>Mon, 07 May 2018 13:23:10 +0100</pubDate>
       
       <guid>https://mathieualain.github.io/post/graal/</guid>
-      <description>I’m glad to be part of the GRAAL research group for this summer. The group is led by François Laviolette and Mario Marchand and their interests are machine learning and its practical applications. This is my first experience with machine learning and it should be fun!</description>
+      <description>I’m glad to be part of the GRAAL research group for the summer. The group is led by François Laviolette and Mario Marchand and their interests cover machine learning and its practical applications. I&amp;rsquo;m new to machine learning, but it should be fun!</description>
     </item>
     
   </channel>
