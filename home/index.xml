@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Mathieu @ GRAAL</title>
+    <title>Homes on Mathieu @ GRAIL</title>
     <link>https://mathieualain.github.io/home/</link>
-    <description>Recent content in Homes on Mathieu @ GRAAL</description>
+    <description>Recent content in Homes on Mathieu @ GRAIL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -78,7 +78,7 @@ Motivation Deep learning is a emerging field that has seen most of the recent ac
     </item>
     
     <item>
-      <title>Recent Posts</title>
+      <title>News</title>
       <link>https://mathieualain.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
