@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CIFAR on Mathieu @ GRAIL</title>
+    <link>https://mathieualain.github.io/tags/cifar/</link>
+    <description>Recent content in CIFAR on Mathieu @ GRAIL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 09 Dec 2019 13:23:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://mathieualain.github.io/tags/cifar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Congratulations!</title>
+      <link>https://mathieualain.github.io/post/cifar/</link>
+      <pubDate>Mon, 09 Dec 2019 13:23:10 +0100</pubDate>
+      
+      <guid>https://mathieualain.github.io/post/cifar/</guid>
+      <description>Congratulations to Audrey Durand, Christian Gagné, Pascal Germain and François Laviolette, faculty members at Université Laval, for their respective Canada CIFAR AI Chairs!</description>
+    </item>
+    
+  </channel>
+</rss>

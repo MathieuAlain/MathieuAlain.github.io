@@ -4,8 +4,16 @@
     
     <url>
     
+      <loc>https://mathieualain.github.io/post/cifar/</loc>
+      <lastmod>2019-12-09T13:23:10+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://mathieualain.github.io/post/msc/</loc>
-      <lastmod>2018-11-13T13:23:10+01:00</lastmod>
+      <lastmod>2018-11-02T13:23:10+01:00</lastmod>
     </url>
     
   
@@ -94,6 +102,15 @@
     
     <url>
     
+      <loc>https://mathieualain.github.io/tags/cifar/</loc>
+      <lastmod>2019-12-09T13:23:10+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://mathieualain.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -112,7 +129,7 @@
     <url>
     
       <loc>https://mathieualain.github.io/tags/deep-learning/</loc>
-      <lastmod>2018-11-13T13:23:10+01:00</lastmod>
+      <lastmod>2018-11-02T13:23:10+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -130,7 +147,7 @@
     <url>
     
       <loc>https://mathieualain.github.io/tags/graal/</loc>
-      <lastmod>2018-11-13T13:23:10+01:00</lastmod>
+      <lastmod>2018-11-02T13:23:10+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -157,7 +174,7 @@
     <url>
     
       <loc>https://mathieualain.github.io/tags/msc/</loc>
-      <lastmod>2018-11-13T13:23:10+01:00</lastmod>
+      <lastmod>2018-11-02T13:23:10+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -166,7 +183,7 @@
     <url>
     
       <loc>https://mathieualain.github.io/tags/machine-learning/</loc>
-      <lastmod>2018-11-13T13:23:10+01:00</lastmod>
+      <lastmod>2018-11-02T13:23:10+01:00</lastmod>
       <priority>0</priority>
     </url>
     

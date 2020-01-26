@@ -11,9 +11,19 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Congratulations!</title>
+      <link>https://mathieualain.github.io/post/cifar/</link>
+      <pubDate>Mon, 09 Dec 2019 13:23:10 +0100</pubDate>
+      
+      <guid>https://mathieualain.github.io/post/cifar/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;https://www.cifar.ca/bio/audrey-durand&#34; target=&#34;_blank&#34;&gt;Audrey Durand&lt;/a&gt;, &lt;a href=&#34;https://www.cifar.ca/bio/christian-gagn&#34; target=&#34;_blank&#34;&gt;Christian Gagné&lt;/a&gt;, &lt;a href=&#34;https://www.cifar.ca/bio/pascal-germain&#34; target=&#34;_blank&#34;&gt;Pascal Germain&lt;/a&gt; and &lt;a href=&#34;https://www.cifar.ca/bio/fran-ois-laviolette&#34; target=&#34;_blank&#34;&gt;François Laviolette&lt;/a&gt;, faculty members at Université Laval, for their respective &lt;b&gt;Canada CIFAR AI Chairs&lt;/b&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Master</title>
       <link>https://mathieualain.github.io/post/msc/</link>
-      <pubDate>Tue, 13 Nov 2018 13:23:10 +0100</pubDate>
+      <pubDate>Fri, 02 Nov 2018 13:23:10 +0100</pubDate>
       
       <guid>https://mathieualain.github.io/post/msc/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m delighted to stay in the realm of the &lt;a href=&#34;https://graal.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;GRAIL&lt;/a&gt; under the guidance of &lt;a href=&#34;https://scholar.google.com/citations?user=uwwWC3cAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;François Laviolette&lt;/a&gt; for my &lt;b&gt;MSc&lt;/b&gt; in Computer Science. A new set of challenges and opportunities is coming!&lt;/p&gt;
