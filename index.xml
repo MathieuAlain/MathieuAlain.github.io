@@ -11,12 +11,12 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Congratulations!</title>
+      <title>Congrats!</title>
       <link>https://mathieualain.github.io/post/cifar/</link>
       <pubDate>Mon, 09 Dec 2019 13:23:10 +0100</pubDate>
       
       <guid>https://mathieualain.github.io/post/cifar/</guid>
-      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;https://www.cifar.ca/bio/audrey-durand&#34; target=&#34;_blank&#34;&gt;Audrey Durand&lt;/a&gt;, &lt;a href=&#34;https://www.cifar.ca/bio/christian-gagn&#34; target=&#34;_blank&#34;&gt;Christian Gagné&lt;/a&gt;, &lt;a href=&#34;https://www.cifar.ca/bio/pascal-germain&#34; target=&#34;_blank&#34;&gt;Pascal Germain&lt;/a&gt; and &lt;a href=&#34;https://www.cifar.ca/bio/fran-ois-laviolette&#34; target=&#34;_blank&#34;&gt;François Laviolette&lt;/a&gt;, faculty members at Université Laval, for their respective &lt;b&gt;Canada CIFAR AI Chairs&lt;/b&gt;!&lt;/p&gt;
+      <description>&lt;p&gt;Congratulations to &lt;b&gt;Audrey Durand&lt;/b&gt;, &lt;b&gt;Christian Gagné&lt;/b&gt;, &lt;b&gt;Pascal Germain&lt;/b&gt; and &lt;b&gt;François Laviolette&lt;/b&gt;, faculty members at Université Laval, for their &lt;a href=&#34;https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs&#34; target=&#34;_blank&#34;&gt;Canada CIFAR AI Chairs&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +26,7 @@
       <pubDate>Fri, 02 Nov 2018 13:23:10 +0100</pubDate>
       
       <guid>https://mathieualain.github.io/post/msc/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m delighted to stay in the realm of the &lt;a href=&#34;https://graal.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;GRAIL&lt;/a&gt; under the guidance of &lt;a href=&#34;https://scholar.google.com/citations?user=uwwWC3cAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;François Laviolette&lt;/a&gt; for my &lt;b&gt;MSc&lt;/b&gt; in Computer Science. A new set of challenges and opportunities is coming!&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m delighted to remain in the realm of the &lt;a href=&#34;https://graal.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;GRAIL&lt;/a&gt; under the guidance of &lt;b&gt;François Laviolette&lt;/b&gt; for my &lt;b&gt;MSc in Computer Science&lt;/b&gt;. A new set of challenges and opportunities is coming!&lt;/p&gt;
 </description>
     </item>
     
@@ -36,7 +36,7 @@
       <pubDate>Mon, 07 May 2018 13:23:10 +0100</pubDate>
       
       <guid>https://mathieualain.github.io/post/graal/</guid>
-      <description>&lt;p&gt;I’m glad to be part of the &lt;a href=&#34;https://grail.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;GRAIL&lt;/a&gt; for the summer. The group is led by &lt;a href=&#34;https://scholar.google.com/citations?user=uwwWC3cAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;François Laviolette&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?user=M792u2sAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Mario Marchand&lt;/a&gt; and their interests cover &lt;b&gt;machine learning&lt;/b&gt; and its practical applications.&lt;/p&gt;
+      <description>&lt;p&gt;I’m glad to be part of the &lt;a href=&#34;https://grail.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;GRAIL&lt;/a&gt; for the summer. The group is led by &lt;b&gt;François Laviolette&lt;/b&gt; and &lt;b&gt;Mario Marchand&lt;/b&gt; and their interests cover &lt;b&gt;machine learning&lt;/b&gt; and its practical applications.&lt;/p&gt;
 </description>
     </item>
     
@@ -46,7 +46,7 @@
       <pubDate>Tue, 02 May 2017 13:23:10 +0100</pubDate>
       
       <guid>https://mathieualain.github.io/post/giref/</guid>
-      <description>&lt;p&gt;This summer I will join the &lt;a href=&#34;http://giref.ulaval.ca/accueil.html&#34; target=&#34;_blank&#34;&gt;GIREF&lt;/a&gt; research group under the supervision of José Urquiza. Their main focus is &lt;b&gt;numerical methods&lt;/b&gt; applied to engineering problems such as the finite element method.&lt;/p&gt;
+      <description>&lt;p&gt;This summer I will join the &lt;a href=&#34;http://giref.ulaval.ca/accueil.html&#34; target=&#34;_blank&#34;&gt;GIREF&lt;/a&gt; research group under the supervision of &lt;b&gt;José Urquiza&lt;/b&gt;. Their main focus is &lt;b&gt;numerical methods&lt;/b&gt; applied to engineering problems such as the finite element method.&lt;/p&gt;
 </description>
     </item>
     
@@ -65,7 +65,7 @@
       <pubDate>Fri, 10 Feb 2017 13:23:10 +0100</pubDate>
       
       <guid>https://mathieualain.github.io/post/ramics2017/</guid>
-      <description>&lt;p&gt;I’m happy to announce that the paper with &lt;a href=&#34;http://www2.ift.ulaval.ca/~desharnais/&#34; target=&#34;_blank&#34;&gt;Jules Desharnais&lt;/a&gt; titled &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-57418-9_3&#34; target=&#34;_blank&#34;&gt;Relation as Images&lt;/a&gt; has been accepted at &lt;a href=&#34;http://www.ens-lyon.fr/LIP/PLUME/RAMiCS17/&#34; target=&#34;_blank&#34;&gt;RAMiCS 2017&lt;/a&gt;. Therefore, I’ll be in Lyon (France) in early May to present our recent work. This paper primarily defines two basic &lt;a href=&#34;https://en.wikipedia.org/wiki/Mathematical_morphology&#34; target=&#34;_blank&#34;&gt;morphological&lt;/a&gt; operations (dilation and erosion) on binary images using a formalism from &lt;a href=&#34;https://en.wikipedia.org/wiki/Relation_algebra&#34; target=&#34;_blank&#34;&gt;relation algebra&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I’m happy to announce that the paper with &lt;b&gt;Jules Desharnais&lt;/b&gt; titled &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-57418-9_3&#34; target=&#34;_blank&#34;&gt;Relation as Images&lt;/a&gt; has been accepted at &lt;a href=&#34;http://www.ens-lyon.fr/LIP/PLUME/RAMiCS17/&#34; target=&#34;_blank&#34;&gt;RAMiCS 2017&lt;/a&gt;. Therefore, I’ll be in Lyon (France) in early May to present our recent work. This paper primarily defines two basic &lt;b&gt;morphological&lt;/b&gt; operations, dilation and erosion, on binary images using a formalism from &lt;b&gt;relation algebra&lt;/b&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -75,7 +75,7 @@
       <pubDate>Wed, 04 May 2016 13:23:10 +0100</pubDate>
       
       <guid>https://mathieualain.github.io/post/lfsm/</guid>
-      <description>&lt;p&gt;I’m thrilled to join the &lt;a href=&#34;https://lsfm.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;LSFM&lt;/a&gt; research group for the summer under the supervision of &lt;a href=&#34;http://www2.ift.ulaval.ca/~desharnais/&#34; target=&#34;_blank&#34;&gt;Jules Desharnais&lt;/a&gt;. Their interests lie in languages, semantics, formal and &lt;b&gt;algebraic methods&lt;/b&gt;. I couldn’t ask for a better first research experience!&lt;/p&gt;
+      <description>&lt;p&gt;I’m thrilled to join the &lt;a href=&#34;https://lsfm.ift.ulaval.ca/&#34; target=&#34;_blank&#34;&gt;LSFM&lt;/a&gt; research group for the summer under the supervision of &lt;b&gt;Jules Desharnais&lt;/b&gt;. Their interests lie in languages, semantics, formal and &lt;b&gt;algebraic methods&lt;/b&gt;. I couldn’t ask for a better first research experience!&lt;/p&gt;
 </description>
     </item>
     
