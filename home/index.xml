@@ -29,7 +29,7 @@
       <guid>https://mathieualain.github.io/home/about/</guid>
       <description>Biography Hello. I am a MSc student in Computer Science at Université Laval in Canada. My research interests primarily lie in machine learning. More specifically, I am very interested in the study of uncertainty using Bayesian and PAC-Bayesian statistical tools.
 I am part of the GRAIL where I am advised by François Laviolette and Pascal Germain.
-Motivation Deep learning is an emerging field that has seen many of the recent achievements of machine learning.</description>
+Motivation Deep learning is an emerging field that has seen most recent achievements of machine learning.</description>
     </item>
     
     <item>
@@ -101,8 +101,7 @@ Motivation Deep learning is an emerging field that has seen many of the recent a
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://mathieualain.github.io/home/others/</guid>
-      <description>You will find here some writings on topics that interest me.
-(Coming soon!)</description>
+      <description>Poutyne is a Keras-like framework for PyTorch and handles much of the boilerplating code needed to train neural networks. It is mainly driven by members of the GRAIL like its creator, Frédérik Paradis.</description>
     </item>
     
     <item>
